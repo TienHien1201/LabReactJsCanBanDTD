@@ -5,6 +5,7 @@ function App() {
   return (
     //Đây là cú pháp JSX tương tự như cú pháp của HTML
     <div className='App'>
+      <h1>Create By Hien </h1>
       <header className='App-header'>
         <img src={logo} className='App-logo' alt='logo' />
         <p>
