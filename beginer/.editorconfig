@@ -1,0 +1,3 @@
+ [*] #Đây là áp dụng cho tất cả các file
+indent_style = space #Dùng space thay vì dùng bằng dấu tab 
+indent_size = 2
